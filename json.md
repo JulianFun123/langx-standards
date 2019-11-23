@@ -12,7 +12,7 @@
 ```json
 {
   "hello_world": {
-      "type":"multiline",
+      ":type":"multiline",
       "newline": "\n",
       "text": [
           "Hello",
